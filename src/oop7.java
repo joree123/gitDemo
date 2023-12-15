@@ -9,7 +9,9 @@ public class oop7 {
 
 			void sum(int x, int y, int z){ 
 
-			System.out.println("Sum of three numbers: " +(x+y+z)); } 
+			System.out.println("Sum of three numbers: " +(x+y+z));
+			System.out.println("changes for develop branch");
+			} 
 
 			public static void main(String[] args){ 
 
