@@ -9,9 +9,16 @@ public class Collection {
 Set<Object> s=new LinkedHashSet<>();//store heterogeneous data
 s.add("kiran");
 s.add("MAnu");
+
+s.add("remove");
+
+s.add("gitdemo1");
+s.add("squash1");
+s.add("squash2");
+s.add("squash3");
 s.add("deveop changes");
 s.add("develop changes from demo1");
-s.add(1);
+
 s.add("gitdemo1");
 s.add("git demo develop branch");
 
