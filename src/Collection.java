@@ -10,6 +10,7 @@ Set<Object> s=new LinkedHashSet<>();//store heterogeneous data
 s.add("kiran");
 s.add("MAnu");
 s.add("deveop changes");
+s.add("develop changes from demo1");
 s.add(1);
 s.add("gitdemo1");
 s.add("git demo develop branch");
