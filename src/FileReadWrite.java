@@ -19,6 +19,7 @@ public class FileReadWrite {
 	readPropertyFile(fileName);
 	writePropertyFile("C:\\Users\\ashvi\\eclipse-workspace\\oop\\info.properties");
 	readTextFile("C:\\Users\\ashvi\\eclipse-workspace\\oop\\src\\second.txt");
+	System.out.println("Gitstuff1");
 	}
 
 private static void readTextFile(String fileName3) throws FileNotFoundException {
@@ -60,5 +61,6 @@ fr.close();
 
 
 }
+
 }
 

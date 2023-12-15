@@ -14,6 +14,7 @@ s.add("develop changes from demo1");
 s.add(1);
 s.add("gitdemo1");
 s.add("git demo develop branch");
+
 System.out.println(s);
 Iterator<Object> is=s.iterator();
 while(is.hasNext())
