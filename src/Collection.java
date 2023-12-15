@@ -13,7 +13,8 @@ s.add("remove");
 s.add(1);
 s.add("gitdemo1");
 s.add("squash1");
-
+s.add("squash2");
+s.add("squash3");
 System.out.println(s);
 Iterator<Object> is=s.iterator();
 while(is.hasNext())
