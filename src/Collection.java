@@ -9,10 +9,10 @@ public class Collection {
 Set<Object> s=new LinkedHashSet<>();//store heterogeneous data
 s.add("kiran");
 s.add("MAnu");
-
+s.add("deveop changes");
 s.add(1);
 s.add("gitdemo1");
-s.add("git demo develop demo2");
+s.add("git demo develop branch");
 System.out.println(s);
 Iterator<Object> is=s.iterator();
 while(is.hasNext())
